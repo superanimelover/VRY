@@ -1,2 +1,2 @@
-# VVY
+# VRY
 Vite + Vue + Yarn testing
